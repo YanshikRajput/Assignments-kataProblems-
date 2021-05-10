@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.exe
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.deps.json
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.runtimeconfig.json
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.dll
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\ref\DeleteOccurences.dll
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\bin\Debug\net5.0\DeleteOccurences.pdb
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.dll
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\ref\DeleteOccurences.dll
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.pdb
+C:\Users\lenovo\source\repos\DeleteOccurences\DeleteOccurences\obj\Debug\net5.0\DeleteOccurences.genruntimeconfig.cache

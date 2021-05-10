@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.exe
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.deps.json
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.runtimeconfig.json
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.dll
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\ref\TwoJoggersProblem.dll
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\bin\Debug\net5.0\TwoJoggersProblem.pdb
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.dll
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\ref\TwoJoggersProblem.dll
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.pdb
+C:\Users\lenovo\source\repos\Two Joggers\Two Joggers\obj\Debug\net5.0\TwoJoggersProblem.genruntimeconfig.cache
