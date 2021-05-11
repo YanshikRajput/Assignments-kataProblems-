@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.exe
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.deps.json
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.runtimeconfig.json
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.dll
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ref\ProductAndLcm.dll
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\bin\Debug\net5.0\ProductAndLcm.pdb
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.dll
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ref\ProductAndLcm.dll
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.pdb
+C:\Users\lenovo\source\repos\ProductAndLcm\ProductAndLcm\obj\Debug\net5.0\ProductAndLcm.genruntimeconfig.cache
