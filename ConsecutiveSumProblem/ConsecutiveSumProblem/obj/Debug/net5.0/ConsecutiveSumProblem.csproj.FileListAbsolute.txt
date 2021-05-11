@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.exe
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.deps.json
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.runtimeconfig.json
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.dll
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ref\ConsecutiveSumProblem.dll
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\bin\Debug\net5.0\ConsecutiveSumProblem.pdb
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.dll
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ref\ConsecutiveSumProblem.dll
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.pdb
+C:\Users\lenovo\source\repos\ConsecutiveSumProblem\ConsecutiveSumProblem\obj\Debug\net5.0\ConsecutiveSumProblem.genruntimeconfig.cache
